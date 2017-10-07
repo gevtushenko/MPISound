@@ -1,6 +1,6 @@
 # MPISound
 
-This project is something an audio profiler of Message Passing Interface. For MPI operation representation MPISound 
+This project is an audio profiler of Message Passing Interface. For MPI operation representation MPISound 
 use stereo system (left headphone is master rank and right headphone is second process). Therefore only two processes are supported
 for this time. 
 
